@@ -1,0 +1,7 @@
+C:\Users\tmcar\source\repos\Override Test\Override Test\bin\Debug\Override Test.exe.config
+C:\Users\tmcar\source\repos\Override Test\Override Test\bin\Debug\Override Test.exe
+C:\Users\tmcar\source\repos\Override Test\Override Test\bin\Debug\Override Test.pdb
+C:\Users\tmcar\source\repos\Override Test\Override Test\obj\Debug\Override Test.csprojAssemblyReference.cache
+C:\Users\tmcar\source\repos\Override Test\Override Test\obj\Debug\Override Test.csproj.CoreCompileInputs.cache
+C:\Users\tmcar\source\repos\Override Test\Override Test\obj\Debug\Override Test.exe
+C:\Users\tmcar\source\repos\Override Test\Override Test\obj\Debug\Override Test.pdb
