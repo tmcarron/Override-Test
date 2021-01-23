@@ -10,6 +10,7 @@ namespace Override_Test
     {
         static void Main(string[] args)
         {
+            //printing names and creating people objects
             Person Tyler = new Person("Tyler", "Carron");
             Console.WriteLine(Tyler.GetFullName());
             Worker John = new Worker("John", "Smith");
@@ -25,6 +26,7 @@ namespace Override_Test
             this.FirstName = fn;
             this.LastName = ln;
         }
+        //Creating a virtual method to be overriden
         public virtual string GetFullName()
         {
             return "Person's Name: "+FirstName + " " + LastName;
@@ -37,6 +39,7 @@ namespace Override_Test
             this.FirstName = fn;
             this.LastName = ln;
         }
+        //Overriding method
         public override string GetFullName()
         {
             return "Worker's Name: " + FirstName + " " + LastName;
